@@ -9,5 +9,5 @@
 </ul>
 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400"/>
 </div>
