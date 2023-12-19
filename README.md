@@ -33,11 +33,17 @@
 </div>
 ⠀<h2>  </h2>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200"/>
 </div>
 <h2>Ho to connect with me:</h2>
-<div align="center">
-<a href="https://www.linkedin.com/in/alexandra-poznyak-a19271251" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div> 
+<div id="badges">
+    <a href="https://www.linkedin.com/in/alexandra-poznyak-a19271251" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/poznyak_alexandra" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  <a href="poznyak.alexandra.y@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40" alt="gmail" />
+    </a>
+  </div>
