@@ -37,7 +37,7 @@
 <ul>
   <li><a href="https://github.com/Alxndrpz/Web-testing">Web-Testing</a></li>
   <li><a href="https://github.com/Alxndrpz/Mobile-Testing-">Mobile Testing</a></li>
-  <li><a href="https://github.com/Alxndrpz/Mobile-Testing-">SQL</a></li>
+  <li><a href="https://github.com/Alxndrpz/SQL_">SQL</a></li>
 </ul>
 
 <div id="header" align="center">
