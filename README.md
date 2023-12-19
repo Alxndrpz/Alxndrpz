@@ -36,7 +36,8 @@
 ⠀<h2>Testing artifacts</h2>
 <ul>
   <li><a href="https://github.com/Alxndrpz/Web-testing">Web-Testing</a></li>
-  <li><a href="https://github.com/Alxndrpz/Web-testing">Mobile Testing</a></li>
+  <li><a href="https://github.com/Alxndrpz/Mobile-Testing-">Mobile Testing</a></li>
+  <li><a href="https://github.com/Alxndrpz/Mobile-Testing-">SQL</a></li>
 </ul>
 
 <div id="header" align="center">
