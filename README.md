@@ -3,7 +3,7 @@
 ⠀
 ⠀<h2>     </h2>
 
-<h2>About me</h2>
+<h1>About me</h1>
 <div align="right">
   <img src="https://media.giphy.com/media/7BconAl98Jkd8UpuMn/giphy.gif" width="200"/> </div>
     <ul>
@@ -15,8 +15,10 @@
    
 
 <br>
+<br>
 <h2>Tools and languages
 </h2>
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
