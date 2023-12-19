@@ -8,7 +8,7 @@
   <li>My resume (will be added later).</li>
 </ul>
 
-<div id="header" align = "right" float = "right">
+<div id="header" align = "right" display = "flex">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400"/>
 </div>
 
