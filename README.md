@@ -8,6 +8,6 @@
   <li>My resume (will be added later).</li>
 </ul>
 
-<div id="header" style="float: right; margin-left: 10px;">
+<div id="header" style="float: right; margin-left: 10;">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400"/>
 </div>
