@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
-<h3 align="center">My name is Sasha and I'm QA Engineer. I would like to showc some examples of my web and mobile testing experience that I have gained through my studies</h3>
+<h3 align="center">My name is Sasha and I'm QA Engineer. I would like to show some examples of my web and mobile testing experience that I have gained through my studies</h3>
 ⠀
 ⠀<h2>     </h2>
 
@@ -10,7 +10,9 @@
   <li>In my free time, I am studying JavaScript.</li>
   <li>My resume (will be added later).</li>
 </ul>
-<h2>Tools and languages</h2>
+<br>
+<h2>Tools and languages
+</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -35,7 +37,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200"/>
 </div>
-<h2>Ho to connect with me:</h2>
+<h2>How to connect with me:</h2>
 <div id="badges">
     <a href="https://www.linkedin.com/in/alexandra-poznyak-a19271251" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
