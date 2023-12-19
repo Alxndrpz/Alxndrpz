@@ -4,12 +4,16 @@
 ⠀<h2>     </h2>
 
 <h2>About me</h2>
-<ul>
+<div align="right">
+  <img src="https://media.giphy.com/media/7BconAl98Jkd8UpuMn/giphy.gif" width="200"/> </div>
+    <ul>
   <li>I am currently working as a QA Engineer on a gamedev project.</li>
   <li>I am taking courses by Artsiom Rusau.</li>
   <li>In my free time, I am studying JavaScript.</li>
   <li>My resume (will be added later).</li>
-</ul>
+</ul
+   
+
 <br>
 <h2>Tools and languages
 </h2>
