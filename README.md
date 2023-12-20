@@ -45,7 +45,7 @@
   <li><a href="https://github.com/Alxndrpz/Mobile-Testing-">Mobile Testing</a></li>
   <li><a href="https://github.com/Alxndrpz/SQL_">SQL</a></li>
   <li><a href="https://github.com/Alxndrpz/Postman_">Postman</a></li>
- <li><a href="https://github.com/Alxndrpz/Postman_">Postman</a></li>
+ <li><a href="https://github.com/Alxndrpz/CharlesProxy">Charles Proxy</a></li>
 </ul>
 
 <div id="header" align="center">
