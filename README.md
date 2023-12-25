@@ -7,8 +7,9 @@
 <div>
  
 <ul>
-  <li>I am currently working as a QA Engineer on a gamedev project.</li>
-  <li>I am taking courses by Artsiom Rusau.</li>
+ <li>Based in Minsk.</li>
+  <li>Сurrently working as a QA Engineer on a gamedev project.</li>
+  <li>I'm taking courses by Artsiom Rusau.</li>
   <li>In my free time, I am studying JavaScript.</li>
   <li>My CV <a href="https://drive.google.com/file/d/1eL2ZJhFqFdVg5dUqhp6tLnxXnFQipQBP/view?usp=drive_link">here</a></a></li>
 </ul
