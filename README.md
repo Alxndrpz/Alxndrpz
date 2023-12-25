@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 <h3 align="center">My name is Sasha and I'm QA Engineer. I would like to show some examples of my web and mobile testing experience that I have gained through my studies</h3>
 ⠀
- <div align = "center" ><img src="https://media.giphy.com/media/tReFWOP3azutzccDTu/giphy.gif" width="600"/> </div>
+ <div align = "center" ><img src="https://media.giphy.com/media/tReFWOP3azutzccDTu/giphy.gif" width="300"/> </div>
 
 <h1>About me</h1>
 <div>
